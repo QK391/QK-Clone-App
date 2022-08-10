@@ -15,7 +15,6 @@ body {
     min-height: 100vh;
     background: var(--bg-color);
     font-family: sans-serif;
-    cursor: pointer;
 }
 
 ul {
@@ -162,6 +161,7 @@ nav .responsive-menu .close-responsive-menu {
 }
 
 .btn-danger {
+    cursor: pointer;
     background: var(--danger-color);
     border-radius: 5px;
     width: 155px;
